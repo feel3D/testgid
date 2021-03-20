@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616282003010</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="master4">
+      <created>1616282356842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616282356842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +127,21 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +153,7 @@
     <MESSAGE value="master1" />
     <MESSAGE value="master2" />
     <MESSAGE value="ole2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ole2" />
+    <MESSAGE value="master4" />
+    <option name="LAST_COMMIT_MESSAGE" value="master4" />
   </component>
 </project>
