@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listen_to_xdebug3_debug_port="false" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="docker_nginx:latest" />
+  <component name="PhpXdebugProxy" port="9000" />
+  <component name="PropertiesComponent">
+    <property name="credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm" value="Docker Compose" />
+    <property name="credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm" value="Docker Compose" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+    <property name="settings.editor.splitter.proportion" value="0.25200802" />
+  </component>
+</project>
