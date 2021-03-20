@@ -1,2 +1,2 @@
 <?php
-echo 'Hello!sssssSSWWWswwwW';
+echo 'Hello!sLLLL';
