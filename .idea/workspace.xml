@@ -81,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616281379794</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="master2">
+      <created>1616281874356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616281874356</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ole2">
+      <created>1616282003010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616282003010</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +109,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="ole" />
                       </list>
                     </value>
                   </entry>
@@ -115,6 +129,8 @@
     <MESSAGE value="fourth" />
     <MESSAGE value="merge a b" />
     <MESSAGE value="master1" />
-    <option name="LAST_COMMIT_MESSAGE" value="master1" />
+    <MESSAGE value="master2" />
+    <MESSAGE value="ole2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ole2" />
   </component>
 </project>
