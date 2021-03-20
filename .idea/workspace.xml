@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616282356842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="wowo">
+      <created>1616282726850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616282726850</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +161,7 @@
     <MESSAGE value="master2" />
     <MESSAGE value="ole2" />
     <MESSAGE value="master4" />
-    <option name="LAST_COMMIT_MESSAGE" value="master4" />
+    <MESSAGE value="wowo" />
+    <option name="LAST_COMMIT_MESSAGE" value="wowo" />
   </component>
 </project>
