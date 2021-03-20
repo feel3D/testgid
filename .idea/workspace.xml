@@ -53,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616280810131</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fourth">
+      <created>1616280900855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616280900855</updated>
+    </task>
+    <task id="LOCAL-00005" summary="merge a b">
+      <created>1616281105949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616281105949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +98,8 @@
     <MESSAGE value="from ole first" />
     <MESSAGE value="change index 2" />
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="fourth" />
+    <MESSAGE value="merge a b" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge a b" />
   </component>
 </project>
