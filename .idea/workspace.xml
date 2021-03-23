@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f3246cd-0bba-4ac0-af8a-0a3961bfcb7c" name="Default Changelist" comment="oleola">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="ddd" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +151,7 @@
       <workItem from="1616366660229" duration="3882000" />
       <workItem from="1616456810948" duration="2425000" />
       <workItem from="1616496723716" duration="1119000" />
+      <workItem from="1616540798460" duration="633000" />
     </task>
     <task id="LOCAL-00013" summary="фывфывфывфывфыв">
       <created>1616456860983</created>
@@ -173,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616540337121</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="aaa">
+      <created>1616540813956</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616540813956</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ffff">
+      <created>1616540841606</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616540841606</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +236,8 @@
     <MESSAGE value="фывфывфывфывфыв" />
     <MESSAGE value="asd" />
     <MESSAGE value="oleola" />
-    <option name="LAST_COMMIT_MESSAGE" value="oleola" />
+    <MESSAGE value="aaa" />
+    <MESSAGE value="ffff" />
+    <option name="LAST_COMMIT_MESSAGE" value="ffff" />
   </component>
 </project>
