@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f3246cd-0bba-4ac0-af8a-0a3961bfcb7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pre-commit-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
+    <list default="true" id="2f3246cd-0bba-4ac0-af8a-0a3961bfcb7c" name="Default Changelist" comment="oleola">
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qwe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/qwe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616456860983</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="asd">
+      <created>1616540257358</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616540257358</updated>
+    </task>
+    <task id="LOCAL-00015" summary="oleola">
+      <created>1616540337121</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616540337121</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,19 +184,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="ole" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -220,6 +219,8 @@
     <MESSAGE value="wowo" />
     <MESSAGE value="taak" />
     <MESSAGE value="фывфывфывфывфыв" />
-    <option name="LAST_COMMIT_MESSAGE" value="фывфывфывфывфыв" />
+    <MESSAGE value="asd" />
+    <MESSAGE value="oleola" />
+    <option name="LAST_COMMIT_MESSAGE" value="oleola" />
   </component>
 </project>
