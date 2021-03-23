@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f3246cd-0bba-4ac0-af8a-0a3961bfcb7c" name="Default Changelist" comment="change index 2">
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php-docker-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-docker-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php-test-framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2f3246cd-0bba-4ac0-af8a-0a3961bfcb7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pre-commit-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qwe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/qwe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -158,9 +151,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616366659060</updated>
-      <workItem from="1616366660229" duration="2857000" />
+      <workItem from="1616366660229" duration="3882000" />
+      <workItem from="1616456810948" duration="2425000" />
+      <workItem from="1616496723716" duration="1119000" />
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="фывфывфывфывфыв">
+      <created>1616456860983</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616456860983</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +219,7 @@
     <MESSAGE value="master4" />
     <MESSAGE value="wowo" />
     <MESSAGE value="taak" />
-    <option name="LAST_COMMIT_MESSAGE" value="taak" />
+    <MESSAGE value="фывфывфывфывфыв" />
+    <option name="LAST_COMMIT_MESSAGE" value="фывфывфывфывфыв" />
   </component>
 </project>
